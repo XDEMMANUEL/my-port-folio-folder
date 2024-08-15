@@ -155,7 +155,6 @@ button{
  }
 #priest{
    background-color: bisque;
-   width: 418px;
    padding: 20px;
    border-radius: 4px;
 }
@@ -167,9 +166,8 @@ border-radius: 4px;
 padding: 25px;
 }
 #damian{
-   background-color: bisque;
-   width: 418px;
-   padding: 25px;
+   background-color: bisque
+   padding: 25:
    border-radius: 4px;
 }
 #metro{
@@ -208,7 +206,6 @@ padding: 25px;
 }
 #rice{
    background-color: bisque;
-   width: 418px;
    padding: 25px;
    border-radius: 4px;
 }
