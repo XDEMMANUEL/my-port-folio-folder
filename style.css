@@ -84,8 +84,9 @@ button{
  
  #parent-container{
     display: flex;
-    background-color: white;
+    background-color: #edf7fa;
    justify-content: center;
+   padding-bottom: 30px;
  }
  .header{
     display: flex;
@@ -102,14 +103,14 @@ button{
    margin-right: 26px;
 }
  #optimus{
-    background-color: bisque;
+    background-color: goldenrod;
     color: black;
     margin-right: 20px;
     padding: 25px;
     border-radius: 4px;
  }
  #madmax{
-    background-color: bisque;
+    background-color: goldenrod;
     
     padding: 25px;
     border-radius: 4px;
@@ -154,7 +155,7 @@ button{
    display: flex;
  }
 #priest{
-   background-color: bisque;
+   background-color: goldenrod;
    padding: 20px;
    border-radius: 4px;
 }
@@ -166,8 +167,8 @@ border-radius: 4px;
 padding: 25px;
 }
 #damian{
-   background-color: bisque
-   padding: 25:
+   background-color: goldenrod;
+   padding: 25px;
    border-radius: 4px;
 }
 #metro{
@@ -205,7 +206,7 @@ padding: 25px;
    align-items: center;
 }
 #rice{
-   background-color: bisque;
+   background-color: goldenrod;
    padding: 25px;
    border-radius: 4px;
 }
@@ -286,4 +287,8 @@ padding: 25px;
 #mice{
    display: flex;
    justify-content: center;
+}
+
+#recent-post-section {
+background-color: #edf7fa;
 }
